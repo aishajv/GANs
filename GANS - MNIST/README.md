@@ -9,8 +9,3 @@ Run this notebook to train GANs. You can experiment with different configiration
 ## RunTime.ipynb
 Run this notebook to generate images once the GAN has been trained. 
 
-<div align="center">
-    <img src="/results.PNG" width="400px"</img> 
-</div>
-
-Feel free to post any questions!
