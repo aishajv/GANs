@@ -10,7 +10,7 @@ Run this notebook to train GANs. You can experiment with different configiration
 Run this notebook to generate images once the GAN has been trained. 
 
 <div align="center">
-    <img src="/results.png" width="400px"</img> 
+    <img src="/results.PNG" width="400px"</img> 
 </div>
 
 Feel free to post any questions!
