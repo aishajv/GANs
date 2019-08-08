@@ -9,3 +9,4 @@ Run this notebook to train GANs. You can experiment with different configiration
 ## RunTime.ipynb
 Run this notebook to generate images once the GAN has been trained. 
 
+![](results.PNG)
